@@ -1,0 +1,42 @@
+
+Thu 23:53:13  P-CAD 2001 Shape-Based Router Started on Thursday, June 1, 2017
+Thu 23:53:13  Loaded file C:\Users\Kiril\Documents\РС\Универ\2 курс\4 семестр\PPP\Labs\shape.prf
+Thu 23:53:18  NeuralNet class C3
+Thu 23:53:18  Fan-Out Pass 1: Completed: 0 connections in 0.0 seconds
+Thu 23:53:18  Memory  Pass 1: Completed 2 connections in 0.0 seconds
+Thu 23:53:18  Memory  Pass 2: Completed 49 connections in 0.0 seconds
+Thu 23:53:18  Pass  1:   0.0min.  74%   52R   18U   0C   0V
+Thu 23:53:19  Pass  2:   0.0min.  74%   52R   18U   0C   0V
+Thu 23:53:19  Pass  3:   0.0min. 100%   70R    0U   0C   0V
+Thu 23:53:19  Mitre   Pass 1: Modified 23 out of 70 in 0.0 minutes
+Thu 23:53:19  Length on Top = 9.7"
+Thu 23:53:19  Length on Bottom = 23.0"
+Thu 23:53:19  Total vias = 0
+Thu 23:53:19  100% routed with no conflicts
+Thu 23:53:19  Total Time 00:00:00
+Thu 23:53:22  NeuralNet class C2
+Thu 23:53:22  Fan-Out Pass 1: Completed: 0 connections in 0.1 seconds
+Thu 23:53:22  Mitre   Pass 1: Modified 24 out of 70 in 0.0 minutes
+Thu 23:53:22  Length on Top = 9.7"
+Thu 23:53:22  Length on Bottom = 22.3"
+Thu 23:53:23  Total vias = 2
+Thu 23:53:23  100% routed with no conflicts
+Thu 23:53:23  Total Time 00:00:01
+Thu 23:53:24  NeuralNet class C2
+Thu 23:53:24  Fan-Out Pass 1: Completed: 0 connections in 0.1 seconds
+Thu 23:53:24  Mitre   Pass 1: Modified 29 out of 70 in 0.0 minutes
+Thu 23:53:24  Length on Top = 10.8"
+Thu 23:53:24  Length on Bottom = 21.4"
+Thu 23:53:24  Total vias = 1
+Thu 23:53:24  100% routed with no conflicts
+Thu 23:53:24  Total Time 00:00:02
+Thu 23:53:25  NeuralNet class C2
+Thu 23:53:25  Fan-Out Pass 1: Completed: 0 connections in 0.1 seconds
+Thu 23:53:26  Mitre   Pass 1: Modified 29 out of 70 in 0.0 minutes
+Thu 23:53:26  Length on Top = 10.4"
+Thu 23:53:26  Length on Bottom = 21.5"
+Thu 23:53:26  Total vias = 1
+Thu 23:53:26  100% routed with no conflicts
+Thu 23:53:26  Total Time 00:00:03
+Thu 23:54:31  Saved as: C:\Users\Kiril\Documents\РС\Универ\2 курс\4 семестр\PPP\Labs\shape.prf
+Thu 23:54:31  Memory used:  0% (2.499MB out of 4096.000MB)

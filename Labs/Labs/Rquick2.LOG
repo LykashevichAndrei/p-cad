@@ -1,0 +1,30 @@
+
+Fri 09:52:30  P-CAD 2001 Shape-Based Router Started on Friday, June 2, 2017
+Fri 09:52:30  Loaded file C:\Users\Kiril\Documents\РС\Универ\2 курс\4 семестр\PPP\Labs\quick2.PRF
+Fri 09:52:34  NeuralNet class C2
+Fri 09:52:34  Fan-Out Pass 1: Completed: 0 connections in 0.0 seconds
+Fri 09:52:34  Pass  1:   0.0min. 100%   71R    0U   0C  31V
+Fri 09:52:34  Mitre   Pass 1: Modified 37 out of 71 in 0.0 minutes
+Fri 09:52:34  Length on Top = 22.9"
+Fri 09:52:34  Length on Bottom = 19.7"
+Fri 09:52:34  Total vias = 8
+Fri 09:52:34  100% routed with no conflicts
+Fri 09:52:34  Total Time 00:00:00
+Fri 09:52:34  NeuralNet class C2
+Fri 09:52:34  Fan-Out Pass 1: Completed: 0 connections in 0.0 seconds
+Fri 09:52:35  Mitre   Pass 1: Modified 33 out of 71 in 0.0 minutes
+Fri 09:52:35  Length on Top = 25.9"
+Fri 09:52:35  Length on Bottom = 16.6"
+Fri 09:52:35  Total vias = 9
+Fri 09:52:35  100% routed with no conflicts
+Fri 09:52:35  Total Time 00:00:00
+Fri 09:52:36  NeuralNet class C2
+Fri 09:52:36  Fan-Out Pass 1: Completed: 0 connections in 0.0 seconds
+Fri 09:52:36  Mitre   Pass 1: Modified 32 out of 71 in 0.0 minutes
+Fri 09:52:36  Length on Top = 24.7"
+Fri 09:52:36  Length on Bottom = 16.8"
+Fri 09:52:36  Total vias = 9
+Fri 09:52:36  100% routed with no conflicts
+Fri 09:52:36  Total Time 00:00:00
+Fri 09:52:40  Saved as: C:\Users\Kiril\Documents\РС\Универ\2 курс\4 семестр\PPP\Labs\quick2.PRF
+Fri 09:52:40  Memory used:  0% (2.499MB out of 4096.000MB)

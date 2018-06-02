@@ -1,0 +1,38 @@
+[AUTOROUTER]
+Autorouter=QuickRoute
+[STRATEGY]
+RouteOptions=1 1 1 0
+RouteCptInterval=120
+RouteCopperShare=0
+RouteErrorOutput=2
+RouteOutputFile=E:\Labs\Labs\Rshape.pcb
+RouteReportFile=E:\Labs\Labs\Rshape.LOG
+RouteAutoPass=1
+RoutePassFlags=1 0 0 0 1 1 1 1 1 1 1
+RoutePassCounts=5 2
+RouteForceMfgFlag=0
+RouteAuxiliary=1
+RouteViaGridX=1
+RouteDefaultViaStyle=via1
+RouteDefaultLineWidth=25000
+GridOriginRel=0app,0app
+GridModeIsAbsolute=True
+GridVisibleStyleIsDot=True
+GridIsVisible=True
+GridPromptForRel=False
+GridAbsolute=63500app
+GridRelative=63500app
+GridSequence0=63500app
+GridSequence1=100000app
+[STRATEGY2]
+RoutePassFlags=1 1 1 1 1 1 1 1 1 1 1 1
+RouteDefaultLineWidth=25000app
+GridOriginRel=0app,0app
+GridModeIsAbsolute=True
+GridVisibleStyleIsDot=True
+GridIsVisible=True
+GridPromptForRel=False
+GridAbsolute=63500app
+GridRelative=63500app
+GridSequence0=63500app
+GridSequence1=100000app

@@ -1,0 +1,380 @@
+P-CAD 2001 PCB (6/400) Version 16.00.56 Routing Log File
+
+======================================================================
+
+Input file:    E:\Labs\Labs\Rshape.pcb
+Output file:   E:\Labs\Labs\RRshape.pcb
+Strategy file: E:\Labs\Labs\Rshape.STR
+
+All dimensions are in mms unless stated.
+
+Routed by:     Quick Route
+
+Start time:    13:55:56 29-May-18
+
+Free memory:   -560357376
+
+Strategy selections:
+
+  Routing grid:                0.635 
+
+
+Layer selections:
+
+  Signal Bias or    Plane                        Clearances
+  Layer  Selection  Net Name          P-P   P-L   L-L   V-P   V-L   V-
+V
+  ------ ---------- ---------------- ----- ----- ----- ----- ----- ---
+--
+  Top    Hor                            13    13    13    13    13    
+13
+  Bottom Ver                            13    13    13    13    13    
+13
+  --------------------------------------------------------------------
+--
+
+
+  * Selected by router.
+
+
+Net classes:
+
+    Net                                          Max
+   Class  Width     Via Padstack     Prio Layer  Vias Notes
+  ------- ----- -------------------- ---- ------ ---- -----
+  Default 0.250 via1                    1 All      *       
+  ---------------------------------------------------------
+  Notes: F = Fixed, do not ripup.
+         N = Do not route.
+         W = Use wide pass.
+
+
+Scheduled pass selection:
+
+  Pass                    Net Classes
+  Num  Pass Name          DFT
+  ---- ------------------ -----------
+    1  Wide line routing   x 
+    2  Horizontal          x 
+    3  Vertical            x 
+    4  'L' routes          x 
+    5  'Z' routes          x 
+    6  'C' routes          x 
+
+----------------------------------------------------------------------
+
+29-May-18  13:55                                            Page    1
+
+P-CAD 2001 PCB (6/400) Version 16.00.56 Routing Log File
+
+======================================================================
+
+    7  Any node (2 vias)   x 
+    8  Maze                x 
+    9  Any node (maze)     x 
+   10  Trace cleanup #1    x 
+   11  Trace cleanup #2    x 
+   12  Via minimization    x 
+   13  Via minimization      
+  -----------------------------------
+
+  * Selected by router.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+29-May-18  13:55                                            Page    2
+
+P-CAD 2001 PCB (6/400) Version 16.00.56 Routing Log File
+
+======================================================================
+
+
+--- ERROR:  9500 ---
+Error #114 (warning).  Two pads found at the same location.  Connectio
+n between pads is assumed.  Via @ (6425,3925)Via @ (6425,3925)
+---
+
+--- ERROR:  9500 ---
+Error #113 (warning).  Overlap detected between two primitives.  Conne
+ction between primitives is assumed.  Pad @ (4842,4606)
+Line @ (4850,4507) to (4850,4575) <bottom layer>
+
+---
+
+--- ERROR:  9500 ---
+Error #113 (warning).  Overlap detected between two primitives.  Conne
+ction between primitives is assumed.  Pad @ (5511,5354)
+Line @ (5555,5300) to (5525,5330) <top layer>
+
+---
+
+--- ERROR:  9500 ---
+Error #113 (warning).  Overlap detected between two primitives.  Conne
+ction between primitives is assumed.  Pad @ (6102,4881)
+Line @ (6150,4899) to (6132,4881) <top layer>
+
+---
+
+--- ERROR:  9500 ---
+Error #113 (warning).  Overlap detected between two primitives.  Conne
+ction between primitives is assumed.  Pad @ (6102,4881)
+Line @ (6144,4881) to (6132,4881) <top layer>
+
+---
+
+--- ERROR:  9500 ---
+Error #113 (warning).  Overlap detected between two primitives.  Conne
+ction between primitives is assumed.  Pad @ (5787,4291)
+Line @ (5600,4325) to (5762,4325) <top layer>
+
+---
+
+--- ERROR:  9500 ---
+Error #113 (warning).  Overlap detected between two primitives.  Conne
+ction between primitives is assumed.  Pad @ (5787,4291)
+Line @ (5762,4325) to (5775,4337) <top layer>
+
+---
+78 total connections on the board.
+
+Pass Performance Summary:
+
+ Net class: Default  Width: 0.250mm       Via Padstack: via1          
+      
+  Wide line routing      Pass Num:   1    Overall
+  ---------------------- ---------------- ---------
+  Routes                                         78
+    Completed                    0 (100%)        78 (100%)
+    Not completed                0 (100%)         0
+
+----------------------------------------------------------------------
+
+29-May-18  13:56                                            Page    3
+
+P-CAD 2001 PCB (6/400) Version 16.00.56 Routing Log File
+
+======================================================================
+
+  Vias                           0 (  0%)         8
+  Elapsed time             0:00:13 (100%)   0:00:13
+  -------------------------------------------------
+
+
+ Net class: Default  Width: 0.250mm       Via Padstack: via1          
+      
+  Horizontal             Pass Num:   2    Overall
+  ---------------------- ---------------- ---------
+  Routes                                         78
+    Completed                    0 (100%)        78 (100%)
+    Not completed                0 (100%)         0
+  Vias                           0 (  0%)         8
+  Elapsed time             0:00:00 (  0%)   0:00:13
+  -------------------------------------------------
+
+
+ Net class: Default  Width: 0.250mm       Via Padstack: via1          
+      
+  Vertical               Pass Num:   3    Overall
+  ---------------------- ---------------- ---------
+  Routes                                         78
+    Completed                    0 (100%)        78 (100%)
+    Not completed                0 (100%)         0
+  Vias                           0 (  0%)         8
+  Elapsed time             0:00:00 (  0%)   0:00:13
+  -------------------------------------------------
+
+
+ Net class: Default  Width: 0.250mm       Via Padstack: via1          
+      
+  'L' routes             Pass Num:   4    Overall
+  ---------------------- ---------------- ---------
+  Routes                                         78
+    Completed                    0 (100%)        78 (100%)
+    Not completed                0 (100%)         0
+  Vias                           0 (  0%)         8
+  Elapsed time             0:00:00 (  0%)   0:00:13
+  -------------------------------------------------
+
+
+ Net class: Default  Width: 0.250mm       Via Padstack: via1          
+      
+  'Z' routes             Pass Num:   5    Overall
+  ---------------------- ---------------- ---------
+  Routes                                         78
+    Completed                    0 (100%)        78 (100%)
+    Not completed                0 (100%)         0
+  Vias                           0 (  0%)         8
+  Elapsed time             0:00:00 (  0%)   0:00:13
+  -------------------------------------------------
+
+
+ Net class: Default  Width: 0.250mm       Via Padstack: via1          
+      
+  'C' routes             Pass Num:   6    Overall
+  ---------------------- ---------------- ---------
+
+----------------------------------------------------------------------
+
+29-May-18  13:56                                            Page    4
+
+P-CAD 2001 PCB (6/400) Version 16.00.56 Routing Log File
+
+======================================================================
+
+  Routes                                         78
+    Completed                    0 (100%)        78 (100%)
+    Not completed                0 (100%)         0
+  Vias                           0 (  0%)         8
+  Elapsed time             0:00:00 (  0%)   0:00:13
+  -------------------------------------------------
+
+
+ Net class: Default  Width: 0.250mm       Via Padstack: via1          
+      
+  Any node (2 vias)      Pass Num:   7    Overall
+  ---------------------- ---------------- ---------
+  Routes                                         78
+    Completed                    0 (100%)        78 (100%)
+    Not completed                0 (100%)         0
+  Vias                           0 (  0%)         8
+  Elapsed time             0:00:00 (  0%)   0:00:13
+  -------------------------------------------------
+
+
+ Net class: Default  Width: 0.250mm       Via Padstack: via1          
+      
+  Maze                   Pass Num:   8    Overall
+  ---------------------- ---------------- ---------
+  Routes                                         78
+    Completed                    0 (100%)        78 (100%)
+    Not completed                0 (100%)         0
+  Vias                           0 (  0%)         8
+  Elapsed time             0:00:00 (  0%)   0:00:13
+  -------------------------------------------------
+
+
+ Net class: Default  Width: 0.250mm       Via Padstack: via1          
+      
+  Any node (maze)        Pass Num:   9    Overall
+  ---------------------- ---------------- ---------
+  Routes                                         78
+    Completed                    0 (100%)        78 (100%)
+    Not completed                0 (100%)         0
+  Vias                           0 (  0%)         8
+  Elapsed time             0:00:00 (  0%)   0:00:13
+  -------------------------------------------------
+
+
+ Net class: Default  Width: 0.250mm       Via Padstack: via1          
+      
+  Trace cleanup #1       Pass Num:  10    Overall
+  ---------------------- ---------------- ---------
+  Routes                                         78
+    Completed                    0 (100%)        78 (100%)
+    Not completed                0 (100%)         0
+  Vias                           0 (  0%)         8
+  Elapsed time             0:00:00 (  0%)   0:00:13
+  -------------------------------------------------
+
+
+ Net class: Default  Width: 0.250mm     
+----------------------------------------------------------------------
+
+29-May-18  13:56                                            Page    5
+
+P-CAD 2001 PCB (6/400) Version 16.00.56 Routing Log File
+
+======================================================================
+
+  Via Padstack: via1          
+      
+  Trace cleanup #2       Pass Num:  11    Overall
+  ---------------------- ---------------- ---------
+  Routes                                         78
+    Completed                    0 (100%)        78 (100%)
+    Not completed                0 (100%)         0
+  Vias                           0 (  0%)         8
+  Elapsed time             0:00:00 (  0%)   0:00:13
+  -------------------------------------------------
+
+
+ Net class: Default  Width: 0.250mm       Via Padstack: via1          
+      
+  Via minimization       Pass Num:  12    Overall
+  ---------------------- ---------------- ---------
+  Routes                                         78
+    Completed                    0 (100%)        78 (100%)
+    Not completed                0 (100%)         0
+  Vias                           0 (  0%)         8
+  Elapsed time             0:00:00 (  0%)   0:00:13
+  -------------------------------------------------
+
+
+
+Final statistics:
+
+  Board:
+    Physical dimensions (   cms):            6.025 by 6.025
+    Routing area (square    cms):           36.305
+    Total pads in file:                    108
+    Equivalent 16-pin ICs (EICs):            6.750
+    Density (square    cms per EIC):         5.379
+  Routing performance:
+    Vias total:                              8 (  7% of total pads)
+    Vias added:                              0 (  0% of total vias)
+    Routed connections (this run):          78
+    Routed connections (total):             78 (100%)
+    Unrouted connections (total):            0 (  0%)
+    Total routing time:                0:00:13
+
+Start time:       13:55:56 29-May-18
+Completion time:  13:56:09 29-May-18
+Free memory:      -560357376
+
+End of log file.

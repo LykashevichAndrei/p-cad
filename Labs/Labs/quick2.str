@@ -1,0 +1,40 @@
+[AUTOROUTER]
+Autorouter=QuickRoute
+[STRATEGY]
+RouteOptions=1 1 1 0
+RouteCptInterval=120
+RouteCopperShare=0
+RouteErrorOutput=2
+RouteOutputFile=C:\Users\Kiril\Documents\РС\Универ\2 курс\4 семестр\PPP\Labs\quick2.pcb
+RouteReportFile=C:\Users\Kiril\Documents\РС\Универ\2 курс\4 семестр\PPP\Labs\quick2.log
+RouteAutoPass=1
+RoutePassFlags=1 0 0 0 1 1 1 1 1 1 1
+RoutePassCounts=5 2
+RouteForceMfgFlag=0
+RouteAuxiliary=1
+RouteViaGridX=1
+RouteDefaultViaStyle=(Default)
+RouteDefaultLineWidth=30480
+GridOriginRel=0app,0app
+GridModeIsAbsolute=True
+GridVisibleStyleIsDot=True
+GridIsVisible=True
+GridPromptForRel=False
+GridAbsolute=63500app
+GridRelative=100000app
+GridSequence0=63500app
+GridSequence1=100000app
+GridSequence2=254000app
+[STRATEGY2]
+RoutePassFlags=1 1 1 1 1 1 1 1 1 0 0 0
+RouteDefaultLineWidth=30480app
+GridOriginRel=0app,0app
+GridModeIsAbsolute=True
+GridVisibleStyleIsDot=True
+GridIsVisible=True
+GridPromptForRel=False
+GridAbsolute=63500app
+GridRelative=100000app
+GridSequence0=63500app
+GridSequence1=100000app
+GridSequence2=254000app
